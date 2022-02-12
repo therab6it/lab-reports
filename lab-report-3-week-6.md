@@ -40,5 +40,5 @@ Now, you can simply use the command ```ssh ieng6``` to login, using the username
     
       
        
- ![image](https://static.wikia.nocookie.net/looneytunes/images/a/a4/THAT%27SALLGIFS.gif/revision/latest/scale-to-width-down/499?cb=20160806162644)
+ ![image](https://media.giphy.com/media/5IT69msgpaOcg/giphy.gif)
  
