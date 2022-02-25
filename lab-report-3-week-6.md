@@ -40,7 +40,7 @@ Now, you can simply use the command ```ssh ieng6``` to login, using the username
              
         
 ### SCP   
-You can now use the ```scp``` command by simply typing ```scp <filename.ext> ieng6:~/``` to copy files. Replace ```<filename.ext>``` with the name of the file to be copied.
+You can now use the ```scp``` command by simply typing ```scp <filename.ext> ieng6:~/``` to copy files. Replace ```<filename.ext>``` with the name of the file to be copied. As you see below, the file has been copied successfully (fifth from the bottom).
 
 ![image](https://user-images.githubusercontent.com/97642829/155815473-7fd4d9df-c033-40f3-8dfe-e3265bb71dda.png)   
 
