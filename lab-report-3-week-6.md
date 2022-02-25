@@ -33,12 +33,20 @@ Host ieng6
 Now, you can simply use the command ```ssh ieng6``` to login, using the username and the public key present in the folder. If it does not work, add the following line of code to the file to help it navigate to the public key file in the folder. Remember to indent the line with the Tab key, keeping it in line with the preceeding lines of code. Also, replace the ```<your profile name>``` with the name of your user profile on your computer.
 ```
  	IdentifyFile C:\Users\<your profile name>\.ssh\id_rsa
- ```     
+```     
         
         
 ---      
-    
-      
+             
+        
+### SCP   
+You can now use the ```scp``` command by simply typing ```scp <filename.ext> ieng6:~/``` to copy files. Replace ```<filename.ext>``` with the name of the file to be copied.
+
+![image](https://user-images.githubusercontent.com/97642829/155815473-7fd4d9df-c033-40f3-8dfe-e3265bb71dda.png)   
+
+       
+---
+         
        
  ![image](https://media.giphy.com/media/5IT69msgpaOcg/giphy.gif)
  
