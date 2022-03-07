@@ -4,7 +4,7 @@ My MarkdownParse repo:
 [not-a-virus.exe](https://github.com/therab6it/markdown-parse)     
        
 Reviewed repository:     
-[likely-a-virus.exe](https://github.com/ucsd-cse15l-w22/markdown-parse)   
+[likely-a-virus.exe](https://github.com/PierreBeur/markdown-parse)   
     
     
 ---     
@@ -77,15 +77,17 @@ A screenshot could not be included because the screen was too small to fit the e
      
       
 ---
-
-
-
-
-
-
-
-
-
-
-
-
+    
+    
+## For FAQs sake
+    
+### Question 1
+It will take more than more than 10 lines for my program to be able to work with backticks. I would need for loops that iterate through each line if the code and if statements to verify, in order to record the start and end of the backtick.    
+     
+### Question 2 
+It will take more than 10 lines for my program to be able to handle parentheses as a part of the link. The reason is it takes only one set of parentheses into account and does not run accurately in case of a "nested" set of parentheses. I would need couple new if statements and variables to properly tackle this situation.
+      
+### Question 3
+It will take less than 10 lines for my program to be able to handle newline characters in links. I would probably take the input from the md file as a single line. I would need to adjust my ```getLinks()``` method, and remove the for loop that iterates through lines and compares them.
+    
+     
