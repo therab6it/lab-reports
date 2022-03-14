@@ -42,6 +42,8 @@ And this is the case with our group's code. It however isn't with the instructor
 As one of our groupmates pointed out, Github allows spaces in a link, which is why the instructor's code would not be the correct output in this case. It must treat the space character as a valid character that is a part of the link, and not replace it with a question mark as observed above.
        
 ---   
-   
+  
+## Goodbye :')   
+      
 ![image](https://c.tenor.com/iS66oB4_6SwAAAAd/soldier-family.gif)   
    
